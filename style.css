@@ -19,7 +19,7 @@ body {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #984447;
+    background-color: #292525;
 }
 
 #header img {
@@ -41,7 +41,7 @@ body {
 }
 
 #content {
-    background-color: #ADD9F4;
+    background-color: #e67716;
     color: #000;
     padding: 50px;
 }
@@ -64,8 +64,8 @@ padding-top: 20px;
 }
 
 #experimental {
-    background-color: #476C9B;
-    height: 500px;
+    background-color: #df6133;
+    height: 650px;
     padding: 50px;
 }
 #experimental h2 {
@@ -89,4 +89,43 @@ padding-top: 20px;
 
 #footer ul li a {
     padding: 10px;
+}
+
+#emoji {
+    text-align: right;
+}
+
+#emoji2 {
+    text-align: left;
+}
+
+#emoji3 {
+ text-align: left;
+}
+
+#emoji4 {
+    text-align: right;
+}
+
+#emoji5 {
+    text-align: right;
+}
+
+#emoji6 {
+    text-align: left;
+}
+
+#emoji7 {
+    text-align: left;
+}
+
+#emoji8 {
+    text-align: right;
+}
+
+body {
+   background-image: url(https://t4.ftcdn.net/jpg/01/75/41/63/360_F_175416312_CLaJROwFrbqcsuVkTiH5ru5e93NGCWTE.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+ background-size: cover;
 }
