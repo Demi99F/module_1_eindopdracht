@@ -67,7 +67,8 @@ padding-top: 20px;
 #experimental {
     background-color: #df6133;
     height: 650px;
-    padding: 50px;
+    padding: 50px; 
+    background-image: linear-gradient(to bottom right, red, orange);
 }
 #experimental h2 {
     text-align: center;
@@ -125,7 +126,7 @@ padding-top: 20px;
 }
 
 body {
-   background-image: url(https://t4.ftcdn.net/jpg/01/75/41/63/360_F_175416312_CLaJROwFrbqcsuVkTiH5ru5e93NGCWTE.jpg);
+   background-image: url(https://www.creativefabrica.com/wp-content/uploads/2020/09/28/Scary-Night-of-Halloween-Background-Graphics-5723603-1-580x387.jpg);
    background-repeat: no-repeat;
    background-attachment: fixed;
  background-size: cover;
